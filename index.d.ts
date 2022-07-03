@@ -1,4 +1,4 @@
-declare module 'cordova-plugin-audioinput' { }
+declare module 'cordova-plugin-camdh-audioinput' { }
 
 export interface AudioInputConfiguration {
   // The Sample Rate in Hz.

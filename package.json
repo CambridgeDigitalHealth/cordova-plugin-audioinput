@@ -1,9 +1,9 @@
 {
-  "name": "@camdh/cordova-plugin-audioinput",
-  "version": "1.0.4",
+  "name": "cordova-plugin-camdh-audioinput",
+  "version": "1.0.0",
   "description": "This cordova plugin enables audio capture from the device microphone, by in (near) real-time forwarding raw audio data to the web layer of your application.",
   "cordova": {
-    "id": "cordova-plugin-audioinput",
+    "id": "cordova-plugin-camdh-audioinput",
     "platforms": [
       "android",
       "ios"
@@ -12,7 +12,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edimuj/cordova-plugin-audioinput.git"
+    "url": "git+https://github.com/CambridgeDigitalHealth/cordova-plugin-audioinput.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -38,7 +38,7 @@
   "author": "Edin Mujkanovic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edimuj/cordova-plugin-audioinput/issues"
+    "url": "https://github.com/CambridgeDigitalHealth/cordova-plugin-audioinput/issues"
   },
-  "homepage": "https://github.com/edimuj/cordova-plugin-audioinput#readme"
+  "homepage": "https://github.com/CambridgeDigitalHealth/cordova-plugin-audioinput#readme"
 }
